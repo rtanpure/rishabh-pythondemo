@@ -1,3 +1,3 @@
-# rishabh-pythondemo
+cd # rishabh-pythondemo
 this is a demo python project
-<br> Author : Rishabh Tanpure
+<br> Author : Rishabh Ramesh Tanpure
